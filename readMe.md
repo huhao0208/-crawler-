@@ -5,6 +5,6 @@ pageNumber : 当前页码
 lIndex 当前页码中的分类索引
 i: 当前分类索引
 
-使用:
+使用方法:
     1. npm i
     2. node app.js
